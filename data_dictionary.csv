@@ -1,0 +1,132 @@
+﻿Field Name,Description
+GEOID20,Voting district identifier; a concatenation of 2020 Census state FIPS code county FIPS code and voting district code
+District,(1-40) Indicates the district to which precinct is assigned
+FriendlyId, Secondary identifier for precincts
+Total_2016-2021_Comp,Election Data
+Dem_2016-2021_Comp,Election Data
+Rep_2016- 2021_Comp,Election Data
+Total_2021_Gov,Election Data
+Dem_2021_Gov,Election Data
+Rep_2021_Gov,Election Data
+Total_2020_Sen,Election Data
+Dem_2020_Sen,Election Data
+Rep_2020_Sen,Election Data
+Total_2020_Pres,Election Data
+Dem_2020_Pres,Election Data
+Rep_2020_Pres,Election Data
+Total_2018_Sen,Election Data
+Dem_2018_Sen,Election Data
+Rep_2018_Sen,Election Data
+Total_2017_Gov,Election Data
+Dem_2017_Gov,Election Data
+Rep_2017_Gov,Election Data
+Total_2016_Pres,Election Data
+Dem_2016_Pres,Election Data
+Rep_2016_Pres,Election Data
+Total_2019_CVAP,CVAP Data
+White_2019_CVAP,CVAP Data
+Hispanic_2019_CVAP,CVAP Data
+Black_2019_CVAP,CVAP Data
+Asian_2019_CVAP,CVAP Data
+Native_2019_CVAP,CVAP Data
+Pacific_2019_CVAP,CVAP Data
+BlackAlone_2019_CVAP,CVAP Data
+AsianAlone_2019_CVAP,CVAP Data
+NativeAlone_2019_CVAP,CVAP Data
+OtherAlone_2019_CVAP,CVAP Data
+TwoOrMore_2019_CVAP,CVAP Data
+Total_2019_Total,CVAP Data
+White_2019_Total,CVAP Data
+Hispanic_2019_Total,CVAP Data
+Black_2019_Total,CVAP Data
+Asian_2019_Total,CVAP Data
+Native_2019_Total,CVAP Data
+Pacific_2019_Total,CVAP Data
+BlackAlone_2019_Total,CVAP Data
+NativeAlone_2019_Total,CVAP Data
+Total_2020_VAP,CVAP Data
+White_2020_VAP,CVAP Data
+Hispanic_2020_VAP,CVAP Data
+Black_2020_VAP,CVAP Data
+Asian_2020_VAP,CVAP Data
+Native_2020_VAP,CVAP Data
+Pacific_2020_VAP,CVAP Data
+BlackAlone_2020_VAP,CVAP Data
+AsianAlone_2020_VAP,CVAP Data
+NativeAlone_2020_VAP,CVAP Data
+PacificAlone_2020_VAP,CVAP Data
+OtherAlone_2020_VAP,CVAP Data
+Total_2020_Total,CVAP Data
+White_2020_Total,CVAP Data
+Hispanic_2020_Total,CVAP Data
+Black_2020_Total,CVAP Data
+Asian_2020_Total,CVAP Data
+Native_2020_Total,CVAP Data
+Pacific_2020_Total,CVAP Data
+BlackAlone_2020_Total,CVAP Data
+AsianAlone_2020_Total,CVAP Data
+NativeAlone_2020_Total,CVAP Data
+PacificAlone_2020_Total,CVAP Data
+OtherAlone_2020_Total,CVAP Data
+TwoOrMore_2020_Total,CVAP Data
+Total_2010_Total,CVAP Data
+White_2010_Total,CVAP Data
+Hispanic_2010_Total,CVAP Data
+Black_2010_Total,CVAP Data
+Asian_2010_Total,CVAP Data
+Native_2010_Total,CVAP Data
+Pacific_2010_Total,CVAP Data
+BlackAlone_2010_Total,CVAP Data
+NativeAlone_2010_Total,CVAP Data
+Total_2010_VAP,CVAP Data
+White_2010_VAP,CVAP Data
+Hispanic_2010_VAP,CVAP Data
+Black_2010_VAP,CVAP Data
+Asian_2010_VAP,CVAP Data
+Native_2010_VAP,CVAP Data
+Pacific_2010_VAP,CVAP Data
+BlackAlone_2010_VAP,CVAP Data
+NativeAlone_2010_VAP,CVAP Data
+Total_2020_NHVAP,CVAP Data
+White_2020_NHVAP,CVAP Data
+Hispanic_2020_NHVAP,CVAP Data
+BlackAlone_2020_NHVAP,CVAP Data
+AsianAlone_2020_NHVAP,CVAP Data
+NativeAlone_2020_NHVAP,CVAP Data
+PacificAlone_2020_NHVAP,CVAP Data
+OtherAlone_2020_NHVAP,CVAP Data
+TwoOrMore_2020_NHVAP,CVAP Data
+Total_2020_Total.1,CVAP Data
+White_2020_Total.1,CVAP Data
+Hispanic_2020_Total.1,CVAP Data
+Black_2020_Total.1,CVAP Data
+Asian_2020_Total.1,CVAP Data
+Native_2020_Total.1,CVAP Data
+Pacific_2020_Total.1,CVAP Data
+Total_2020_VAP.1,CVAP Data
+White_2020_VAP.1,CVAP Data
+Hispanic_2020_VAP.1,CVAP Data
+Black_2020_VAP.1,CVAP Data
+Asian_2020_VAP.1,CVAP Data
+Native_2020_VAP.1,CVAP Data
+Pacific_2020_VAP.1,CVAP Data
+Total_2020_TotalAdj,CVAP Data
+White_2020_TotalAdj,CVAP Data
+Hispanic_2020_TotalAdj,CVAP Data
+Black_2020_TotalAdj,CVAP Data
+Asian_2020_TotalAdj,CVAP Data
+Native_2020_TotalAdj,CVAP Data
+Pacific_2020_TotalAdj,CVAP Data
+STATEFP20,2020 Census state FIPS code
+COUNTYFP20,2020 Census county FIPS code
+VTDST20,2020 Census voting district code
+VTDI20,2020 Census voting district indicator
+NAME20,2020 Census voting district name
+NAMELSAD20,2020 Census name and the translated legal/statistical area description for voting district
+LSAD20,Census legal/statistical area description code for state
+MTFCC20,MAF/TIGER feature class code (G4000)
+FUNCSTAT20,2020 Census functional status
+ALAND20,2020 Census land area
+AWATER20,2020 Census water area
+INTPTLAT20,2020 Census latitude of the internal point
+INTPTLON20,2020 Census longitude of the internal point
